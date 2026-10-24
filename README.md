@@ -31,6 +31,8 @@
 
 ## 🛠️ Tech Stack & Tools
 
+<div align="center">
+
 **Frontend & Web**  
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs,ts,tailwind" alt="Frontend"/>
 
@@ -42,6 +44,8 @@
 
 **Tools & Operating Systems**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,npm,windows,linux,ubuntu,arch" alt="Tools"/>
+
+</div>
 
 <br>
 
@@ -77,6 +81,8 @@ Strengthen knowledge in APIs, Databases, and System Architecture.
 
 ## 🤝 Let's Connect!
 
+<div align="center">
+
 **Always open for:**<br>
 💡 New ideas and collaborations<br>
 🤝 Partnerships on interesting projects<br>
@@ -85,7 +91,7 @@ Strengthen knowledge in APIs, Databases, and System Architecture.
 
 <br><br>
 
-<div align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=ducanhcah&style=flat-square&color=2563EB" alt="Profile Views" />
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=ducanhcah&style=flat-square&color=2563EB" alt="Profile Views" />
+
 </div>
