@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2 align="center">👋 Hi, I'm Nguyen Duc Anh</h2>
+<h1 align="center">👋 Hi, I'm Nguyen Duc Anh</h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Aspiring+Backend+Developer;Learning+by+building+projects" alt="Typing SVG" />
 
