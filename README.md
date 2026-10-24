@@ -2,11 +2,9 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Aspiring+Backend+Developer;Learning+by+building+projects" alt="Typing SVG" />
-
   <p>
     Software Engineering Student at <strong>Duy Tan University</strong>.
   </p>
-
   <p>
     <a href="https://byducanh.id.vn">
       <img src="https://img.shields.io/badge/PORTFOLIO-byducanh.id.vn-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
@@ -19,18 +17,12 @@
     </a>
   </p>
 </div>
-
 <br>
-
 ## 🎓 Education
-
 **Duy Tan University** — Software Engineering *(2023–2026)*  
 *Core Knowledge: Data Structures & Algorithms, OOP, Database Design, System Analysis & Design, Agile/Scrum.*
-
 <br>
-
 ## 🛠️ Tech Stack & Tools
-
 <div align="center">
 
 **Frontend & Web**  
@@ -44,40 +36,24 @@
 
 **Tools & Operating Systems**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,npm,windows,linux,ubuntu,arch" alt="Tools"/>
-
 </div>
-
 <br>
-
 ## 🎯 Goals
-
 Specialize in **Backend Development** (C#/.NET, Node.js).<br>
 Strengthen knowledge in APIs, Databases, and System Architecture.
-
 <br>
-
-## 📊 GitHub Stats
-
 <div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=ducanhcah&theme=dark" alt="GitHub Streak" />
-
 <br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ducanhcah/ducanhcah/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ducanhcah/ducanhcah/output/github-snake.svg"/>
   <img alt="Snake" src="https://raw.githubusercontent.com/ducanhcah/ducanhcah/output/github-snake.svg"/>
 </picture>
-
 </div>
-
 <br>
-
 ## 🤝 Let's Connect!
-
 <div align="center">
-
 **Always open for:**<br>
 💡 New ideas and collaborations<br>
 🤝 Partnerships on interesting projects<br>
