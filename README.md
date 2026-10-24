@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Xin chào, mình là Nguyễn Đức Anh
+<h3 align="center">👋 Xin chào, mình là Nguyễn Đức Anh</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Aspiring+Backend+Developer;Learning+by+building+projects" alt="Typing SVG" />
 
@@ -20,50 +20,68 @@
   </a>
 </p>
 
-## 🎓 Học vấn
+<br>
+
+<p align="center"><strong>🎓 Học vấn</strong></p>
 
 **Đại học Duy Tân** — Kỹ thuật Phần mềm *(2023–2026)*  
 *Kiến thức cốt lõi: Cấu trúc dữ liệu & giải thuật, OOP, Cơ sở dữ liệu, Phân tích & Thiết kế hệ thống, Agile/Scrum.*
 
-## 🛠️ Công nghệ & Công cụ
+<br>
+
+<p align="center"><strong>🛠️ Công nghệ & Công cụ</strong></p>
 
 **Frontend & Web**  
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs,ts,tailwind" alt="Frontend"/>
 
+<br>
+
 **Backend & Lập trình**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,java,c" alt="Backend"/>
+
+<br>
 
 **Cơ sở dữ liệu**  
 <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="DB"/>
 
+<br>
+
 **Công cụ & Hệ điều hành**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,npm,windows,linux,ubuntu,fedora,arch" alt="Tools"/>
 
-## 🎯 Định hướng
+<br>
 
-* Phát triển chuyên sâu lập trình **Backend** (C#/.NET, Node.js).
-* Hoàn thiện kiến thức về API, cơ sở dữ liệu và thiết kế hệ thống.
+<p align="center"><strong>🎯 Định hướng</strong></p>
 
-## 📊 Thống kê GitHub
+Phát triển chuyên sâu lập trình **Backend** (C#/.NET, Node.js).<br>
+Hoàn thiện kiến thức về API, cơ sở dữ liệu và thiết kế hệ thống.
+
+<br>
+
+<p align="center"><strong>📊 Thống kê GitHub</strong></p>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ducanhcah&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducanhcah&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs"/>
 <br><br>
 <img src="https://streak-stats.demolab.com/?user=ducanhcah&theme=github-dark-blue&hide_border=true" alt="Streak"/>
 
-### 🐍 Contribution Snake
+<br><br>
+
+<p align="center"><strong>🐍 Contribution Snake</strong></p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ducanhcah/ducanhcah/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ducanhcah/ducanhcah/output/github-snake.svg"/>
   <img alt="Snake" src="https://raw.githubusercontent.com/ducanhcah/ducanhcah/output/github-snake.svg"/>
 </picture>
 
-## 🤝 Kết nối với mình!
+<br>
 
-Luôn sẵn sàng cho:  
-💡 Ý tưởng và sự hợp tác mới  
-🤝 Đối tác trong các dự án thú vị  
-📚 Thảo luận về công nghệ và đổi mới  
+<p align="center"><strong>🤝 Kết nối với mình!</strong></p>
+
+Luôn sẵn sàng cho:<br>
+💡 Ý tưởng và sự hợp tác mới<br>
+🤝 Đối tác trong các dự án thú vị<br>
+📚 Thảo luận về công nghệ và đổi mới<br>
 💬 Bạn có thắc mắc? Hãy gửi tin nhắn cho mình nhé!
 
 </div>
