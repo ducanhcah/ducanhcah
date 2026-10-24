@@ -35,7 +35,7 @@
 <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="DB"/>
 
 **Tools & Operating Systems**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,npm,windows,linux,ubuntu,arch" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,npm,figma,trello,slack,discord,windows,linux,ubuntu,arch" alt="Tools"/>
 
 </div>
 
