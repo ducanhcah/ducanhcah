@@ -55,20 +55,13 @@ Specialize in **Backend Development** (C#/.NET, Node.js).<br>
 Strengthen knowledge in APIs, Databases, and System Architecture.
 
 <br>
-
-## 📊 GitHub Stats
-
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ducanhcah&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducanhcah&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs"/>
   <br><br>
   <img src="https://streak-stats.demolab.com/?user=ducanhcah&theme=github-dark-blue&hide_border=true" alt="Streak"/>
 </div>
-
 <br>
-
-## 🐍 Contribution Snake
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ducanhcah/ducanhcah/output/github-snake-dark.svg"/>
