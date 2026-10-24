@@ -1,11 +1,11 @@
 <div align="center">
 
-<h3 align="center">👋 Xin chào, mình là Nguyễn Đức Anh</h3>
+<h3 align="center">👋 Hi, I'm Nguyen Duc Anh</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Aspiring+Backend+Developer;Learning+by+building+projects" alt="Typing SVG" />
 
 <p align="center">
-  Sinh viên Kỹ thuật Phần mềm tại <strong>Đại học Duy Tân</strong>.
+  Software Engineering Student at <strong>Duy Tan University</strong>.
 </p>
 
 <p align="center">
@@ -22,43 +22,43 @@
 
 <br>
 
-<p align="center"><strong>🎓 Học vấn</strong></p>
+<p align="center"><strong>🎓 Education</strong></p>
 
-**Đại học Duy Tân** — Kỹ thuật Phần mềm *(2023–2026)*  
-*Kiến thức cốt lõi: Cấu trúc dữ liệu & giải thuật, OOP, Cơ sở dữ liệu, Phân tích & Thiết kế hệ thống, Agile/Scrum.*
+**Duy Tan University** — Software Engineering *(2023–2026)*  
+*Core Knowledge: Data Structures & Algorithms, OOP, Database Design, System Analysis & Design, Agile/Scrum.*
 
 <br>
 
-<p align="center"><strong>🛠️ Công nghệ & Công cụ</strong></p>
+<p align="center"><strong>🛠️ Tech Stack & Tools</strong></p>
 
 **Frontend & Web**  
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nextjs,ts,tailwind" alt="Frontend"/>
 
 <br>
 
-**Backend & Lập trình**  
+**Backend & Programming**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,java,c" alt="Backend"/>
 
 <br>
 
-**Cơ sở dữ liệu**  
+**Databases**  
 <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="DB"/>
 
 <br>
 
-**Công cụ & Hệ điều hành**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,npm,windows,linux,ubuntu,fedora,arch" alt="Tools"/>
+**Tools & Operating Systems**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,npm,windows,linux,ubuntu,arch" alt="Tools"/>
 
 <br>
 
-<p align="center"><strong>🎯 Định hướng</strong></p>
+<p align="center"><strong>🎯 Goals</strong></p>
 
-Phát triển chuyên sâu lập trình **Backend** (C#/.NET, Node.js).<br>
-Hoàn thiện kiến thức về API, cơ sở dữ liệu và thiết kế hệ thống.
+Specialize in **Backend Development** (C#/.NET, Node.js).<br>
+Strengthen knowledge in APIs, Databases, and System Architecture.
 
 <br>
 
-<p align="center"><strong>📊 Thống kê GitHub</strong></p>
+<p align="center"><strong>📊 GitHub Stats</strong></p>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ducanhcah&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducanhcah&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs"/>
@@ -76,12 +76,12 @@ Hoàn thiện kiến thức về API, cơ sở dữ liệu và thiết kế hệ
 
 <br>
 
-<p align="center"><strong>🤝 Kết nối với mình!</strong></p>
+<p align="center"><strong>🤝 Let's Connect!</strong></p>
 
-Luôn sẵn sàng cho:<br>
-💡 Ý tưởng và sự hợp tác mới<br>
-🤝 Đối tác trong các dự án thú vị<br>
-📚 Thảo luận về công nghệ và đổi mới<br>
-💬 Bạn có thắc mắc? Hãy gửi tin nhắn cho mình nhé!
+Always open for:<br>
+💡 New ideas and collaborations<br>
+🤝 Partnerships on interesting projects<br>
+📚 Discussions on tech and innovation<br>
+💬 Any questions? Feel free to send me a message!
 
 </div>
