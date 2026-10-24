@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nguyen Duc Anh
+# 👋 Hi, I'm Duc Anh
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Aspiring+Backend+Developer;Learning+by+building+projects" alt="Typing SVG" />
