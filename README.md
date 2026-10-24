@@ -5,8 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Aspiring+Backend+Developer;Learning+by+building+projects" alt="Typing SVG" />
 
 <p align="center">
-  Sinh viên Kỹ thuật Phần mềm tại <strong>Đại học Duy Tân</strong>.<br/>
-  Đang củng cố nền tảng lập trình, phát triển web và cơ sở dữ liệu qua các dự án học tập.
+  Sinh viên Kỹ thuật Phần mềm tại <strong>Đại học Duy Tân</strong>.
 </p>
 
 <p align="center">
@@ -21,18 +20,10 @@
   </a>
 </p>
 
-</div>
-
----
-
-<div align="center">
-
 ## 🎓 Học vấn
 
 **Đại học Duy Tân** — Kỹ thuật Phần mềm *(2023–2026)*  
 *Kiến thức cốt lõi: Cấu trúc dữ liệu & giải thuật, OOP, Cơ sở dữ liệu, Phân tích & Thiết kế hệ thống, Agile/Scrum.*
-
----
 
 ## 🛠️ Công nghệ & Công cụ
 
@@ -43,20 +34,15 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,java,c" alt="Backend"/>
 
 **Cơ sở dữ liệu**  
-<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="DB"/> 
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" alt="DB"/>
 
 **Công cụ & Hệ điều hành**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,npm,windows,linux,ubuntu,fedora,arch" alt="Tools"/>
-
----
 
 ## 🎯 Định hướng
 
 * Phát triển chuyên sâu lập trình **Backend** (C#/.NET, Node.js).
 * Hoàn thiện kiến thức về API, cơ sở dữ liệu và thiết kế hệ thống.
-
----
 
 ## 📊 Thống kê GitHub
 
@@ -71,8 +57,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ducanhcah/ducanhcah/output/github-snake.svg"/>
   <img alt="Snake" src="https://raw.githubusercontent.com/ducanhcah/ducanhcah/output/github-snake.svg"/>
 </picture>
-
----
 
 ## 🤝 Kết nối với mình!
 
