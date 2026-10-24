@@ -88,10 +88,6 @@ Strengthen knowledge in APIs, Databases, and System Architecture.
 🤝 Partnerships on interesting projects<br>
 📚 Discussions on tech and innovation<br>
 💬 Any questions? Feel free to send me a message!
-
 <br><br>
-
-<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=ducanhcah&style=flat-square&color=2563EB" alt="Profile Views" />
-
 </div>
